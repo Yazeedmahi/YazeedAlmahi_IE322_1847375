@@ -18,5 +18,4 @@ D:\IE322_1847375\class-2\obj\Debug\class_2.FrmCalculator.resources
 D:\IE322_1847375\class-2\obj\Debug\class-2.csproj.CoreCompileInputs.cache
 D:\IE322_1847375\class-2\obj\Debug\class_2.FrmAtm.resources
 D:\IE322_1847375\class-2\obj\Debug\class_2.CarApp.resources
-D:\IE322_1847375\class-2\obj\Debug\IE322_App_KAU.frmArray.resources
 D:\IE322_1847375\class-2\obj\Debug\class_2.FrmmArraycs.resources

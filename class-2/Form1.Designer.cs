@@ -396,7 +396,7 @@
             this.BtnCarApp.Name = "BtnCarApp";
             this.BtnCarApp.Size = new System.Drawing.Size(106, 34);
             this.BtnCarApp.TabIndex = 35;
-            this.BtnCarApp.Text = "CarApp";
+            this.BtnCarApp.Text = "CarAppClasses";
             this.BtnCarApp.UseVisualStyleBackColor = true;
             this.BtnCarApp.Click += new System.EventHandler(this.BtnCarApp_Click);
             // 
